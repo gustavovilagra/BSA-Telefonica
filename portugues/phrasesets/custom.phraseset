@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="custom" version="1.0">
+    <phrase version="1.0">
+        <displayname>011</displayname>
+        <talent/>
+        <phrasetext>Seja Bem vindo ao nosso centro de atendimento</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>011.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>004</displayname>
+        <talent/>
+        <phrasetext>para pessoa fisica tecle 1, para pessoa juridica tecle 2</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>004.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>005</displayname>
+        <talent/>
+        <phrasetext>digite seu CPF</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>005.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>009</displayname>
+        <talent/>
+        <phrasetext>zelamos pela sua segurança,  Por isso a partir de esse momento, sua ligação podera ser gravada,  Aguarde para ser atendido</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>009.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>006</displayname>
+        <talent/>
+        <phrasetext>Dados inválidos</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>006.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>010</displayname>
+        <talent/>
+        <phrasetext>Não foi possivel confirmar seus dados., Agradecemos sua ligação, Estamos 24 horas trabalhando para melhor atendelo, Ligue novamente mais tarde</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>010.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>007</displayname>
+        <talent/>
+        <phrasetext>Digite seu CNPJ</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>007.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>008</displayname>
+        <talent/>
+        <phrasetext>esta e uma opção invalida, tente novamente</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>008.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>012</displayname>
+        <talent/>
+        <phrasetext>Estamos com problemas no atendimento, ligue novamente mais tarde.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>012.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>013</displayname>
+        <talent/>
+        <phrasetext>Olá , Feliz Páscoa</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>013.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>014</displayname>
+        <talent/>
+        <phrasetext>Olá, feliz natal e um prospero ano novo</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>014.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>015</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>015.wav</audiofile>
+    </phrase>
+</phraseset>

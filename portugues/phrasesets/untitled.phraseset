@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="untitled" version="1.0">
+    <phrase version="1.0">
+        <displayname>001</displayname>
+        <talent/>
+        <phrasetext>bom dia</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>001.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>002</displayname>
+        <talent/>
+        <phrasetext>boa tarde</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>02.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>003</displayname>
+        <talent/>
+        <phrasetext>boa noite</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>003.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>000</displayname>
+        <talent/>
+        <phrasetext>Oi </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>000.wav</audiofile>
+    </phrase>
+</phraseset>
